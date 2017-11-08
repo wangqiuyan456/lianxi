@@ -2,7 +2,7 @@
     <header id="header-bar" v-if="getUserInfo != ''">
         <div class="logo-box"><img src="../static/images/logo.png" /></div>
         <div class="tool-box">
-            <h3 class="team-name">八维网站</h3>
+            <h3 class="team-name"></h3>
             <div class="user-box">
                 <i class="iconfont icon-xiaoxi"></i>
                 <span>
